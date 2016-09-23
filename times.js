@@ -58,6 +58,8 @@ var times = [
 	{ name: "New Years", date: new Date("01/jan/2016") },
 
 	{ name: "G4E", date: new Date("20/oct/2016 09:00 AM") },
+
+	{ name: "Hons IPO", date: new Date("23/sep/2016 23:30") },
 	// Tri 2 16/17
 	
 	// Dr. Serrels
